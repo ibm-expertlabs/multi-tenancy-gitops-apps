@@ -24,12 +24,12 @@ resources:
 # - roles/custom-pipeline-clusterrolebinding.yaml
  - routes/el-ace-integration-server.yaml
  - secrets/ibm-entitlement-key-secret.yaml
- - secrets/gitops-repo-pk-secret-create-customer-at-github.yaml
+# - secrets/gitops-repo-pk-secret-create-customer-at-github.yaml
 # - secrets/basic-auth-rest-secret.yaml
- - secrets/github-user-token-secret-cicd-acme1.yaml
- - secrets/gitops-repo-pk-secret-ace-config-at-github.yaml
- - secrets/gitops-repo-pk-secret-ace-infra-at-github.yaml
- - secrets/gitops-repo-pk-secret-multi-tenancy-gitops-apps-at-github.yaml
+# - secrets/github-user-token-secret-cicd-acme1.yaml
+# - secrets/gitops-repo-pk-secret-ace-config-at-github.yaml
+# - secrets/gitops-repo-pk-secret-ace-infra-at-github.yaml
+# - secrets/gitops-repo-pk-secret-multi-tenancy-gitops-apps-at-github.yaml
 # - secrets/git-credentials-secret.yaml
 # - secrets/ibm-ace-server-jks-secret.yaml
 # - secrets/ibm-ca-jks-secret.yaml
