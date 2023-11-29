@@ -26,6 +26,7 @@ resources:
  - secrets/ibm-entitlement-key-secret.yaml
 # - secrets/gitops-repo-pk-secret-create-customer-at-github.yaml
 # - secrets/basic-auth-rest-secret.yaml
+# - secrets/github-user-token-secret-cicd-acme.yaml
 # - secrets/github-user-token-secret-cicd-acme1.yaml
 # - secrets/gitops-repo-pk-secret-ace-config-at-github.yaml
 # - secrets/gitops-repo-pk-secret-ace-infra-at-github.yaml
