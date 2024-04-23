@@ -5,10 +5,9 @@ metadata:
 spec:
   license:
     accept: true
-    license: L-SEWB-GH63KR
+    license: L-DMRW-D3HQHQ
     use: CloudPakForIntegrationNonProduction
-  useCommonServices: true
-  version: 12.0.9.0-r3
+  version: 12.0.11
   storage:
     class: ocs-storagecluster-cephfs
     type: persistent-claim
