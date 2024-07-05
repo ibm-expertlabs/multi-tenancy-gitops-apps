@@ -127,7 +127,7 @@ spec:
         - name: repo-directory
           value: gitops-repo
         - name: user-name
-          value: "cicd.acme"
+          value: "cicd-acme1"
         - name: user-email
           value: "cicd@acme.com"
         - name: kustomization-path
