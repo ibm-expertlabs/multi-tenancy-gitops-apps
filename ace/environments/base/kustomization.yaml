@@ -1,1 +1,3 @@
-resources: []
+resources:
+  - configurations/server_conf_yaml.yaml
+  - configurations/common_policy_project.yaml
