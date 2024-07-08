@@ -15,7 +15,7 @@ spec:
       description: list of projects
 
   steps:
-    - image: icr.io/appc-dev/ace-server:12.0.2.0-r2-20211115-123200-amd64
+    - image: cp.icr.io/cp/appc/ace-server-prod@sha256:c45d6e2bb78f0bad4865d38b52117fe8f57e2ef6c17d434a67c63838eef22d2d
       name: generate-bar
       script: |
         #!/usr/bin/env bash
