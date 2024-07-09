@@ -6,7 +6,7 @@ spec:
   params:
     - name: is-source-repo-url
       type: string
-      description: "SSH url of ACE source repository, ex: git@github.com:ibm-expertlabs/dss-accenture.git
+      description: "SSH url of ACE source repository, ex: git@github.com:ibm-expertlabs/dss-accenture.git"
 
     - name: is-infra-repo-url
       type: string
