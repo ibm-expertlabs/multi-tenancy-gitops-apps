@@ -1,3 +1,4 @@
 resources:
 # Secrets
-- secrets/ibm-entitled-registry-credentials-secret.yaml
+#- secrets/ibm-entitled-registry-credentials-secret.yaml
+- secrets/ibm-entitlement-key-secret.yaml
